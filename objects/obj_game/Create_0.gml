@@ -1,0 +1,1 @@
+defaultPlayerMoveSpeed = 3;
